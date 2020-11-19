@@ -6,6 +6,7 @@
 
 # Install bahan
 > pkg install git
+
 > pkg install nodejs
 
 # Eksekusi github nya
@@ -13,6 +14,7 @@
 
 # Setelah itu 
 > cd DMart-bot-wa
+
 > bash install.sh
 
 # Jika sudah silahkan jalankan bot wa
